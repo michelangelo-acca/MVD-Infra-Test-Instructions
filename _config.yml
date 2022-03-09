@@ -1,4 +1,4 @@
-theme: minimal-mistakes-jekyll 
+theme: minima
 markdown: GFM
 plugins:
   - jemoji
