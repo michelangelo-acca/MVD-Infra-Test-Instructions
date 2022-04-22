@@ -135,7 +135,7 @@ The vertical layout of the alignment (both for Alignment 1 and Alignment 2) is d
 
 | Entity                      | PredefinedType   | Name | Start Dist Along | Horizontal Length | Start Height | Start Gradient | End Gradient | RadiusOfCurvature |
 |-----------------------------|------------------|------|------------------|-------------------|--------------|----------------|--------------|-------------------|
-| IfcAlignmentVerticalSegment | CONSTANTGRADIENT | V1   | 0                | 0                 | 5            | 0              | 0            |                   |
+| IfcAlignmentVerticalSegment | CONSTANTGRADIENT | V1   | 0                | 325.0006          | 5            | 0              | 0            |                   |
 | IfcAlignmentVerticalSegment | CIRCULARARC      | V2   | 325.0006         | 49.9975           | 5            | 0              | -0.01        | 5000              |
 | IfcAlignmentVerticalSegment | CONSTANTGRADIENT | V3   | 374.9981         | 250.0038          | 4.75         | -0.01          | -0.01        |                   |
 | IfcAlignmentVerticalSegment | CIRCULARARC      | V4   | 625.0019         | 49.9975           | 2.25         | -0.01          | 0            | -5000             |
@@ -145,7 +145,7 @@ The vertical layout of the alignment (both for Alignment 1 and Alignment 2) is d
 
 | Entity                      | PredefinedType   | Name | Start Dist Along | Horizontal Length | Start Height | Start Gradient | End Gradient | RadiusOfCurvature |
 |-----------------------------|------------------|------|------------------|-------------------|--------------|----------------|--------------|-------------------|
-| IfcAlignmentVerticalSegment | CONSTANTGRADIENT | V1   | 0                | 0                 | 5            | 0              | 0            |                   |
+| IfcAlignmentVerticalSegment | CONSTANTGRADIENT | V1   | 0                | 277.0671          | 5            | 0              | 0            |                   |
 | IfcAlignmentVerticalSegment | CIRCULARARC      | V2   | 277.0671         | 49.8646           | 5            | 0              | -0.009973    | 5000              |
 | IfcAlignmentVerticalSegment | CONSTANTGRADIENT | V3   | 326.9317         | 250.9366          | 4.7513       | -0.009973      | -0.009973    |                   |
 | IfcAlignmentVerticalSegment | CIRCULARARC      | V4   | 577.8683         | 49.8646           | 2.2487       | -0.009973      | 0            | -5000             |
